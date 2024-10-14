@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C\u002B\u002B\\leraing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{949FE9A2-9DEE-49A3-87AE-3FFC71765D73}|leraing.vcxproj|C:\\Users\\Administrator\\Desktop\\C\u002B\u002B\\leraing\\note.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{949FE9A2-9DEE-49A3-87AE-3FFC71765D73}|leraing.vcxproj|solutionrelative:note.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "note.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C\u002B\u002B\\leraing\\note.cpp",
+              "RelativeDocumentMoniker": "note.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C\u002B\u002B\\leraing\\note.cpp",
+              "RelativeToolTip": "note.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T19:46:30.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
