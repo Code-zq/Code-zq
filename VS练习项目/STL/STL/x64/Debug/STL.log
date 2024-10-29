@@ -1,0 +1,5 @@
+﻿  STL案列2.cpp
+C:\Users\Administrator\Desktop\C++\VS练习项目\STL\STL案列2.cpp(48,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\C++\VS练习项目\STL\STL案列2.cpp(64,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\C++\VS练习项目\STL\STL案列2.cpp(80,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  STL.vcxproj -> C:\Users\Administrator\Desktop\C++\VS练习项目\STL\x64\Debug\STL.exe
