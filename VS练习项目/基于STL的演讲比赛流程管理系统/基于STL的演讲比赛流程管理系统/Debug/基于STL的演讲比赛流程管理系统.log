@@ -1,0 +1,29 @@
+﻿  SpeechManager.cpp
+C:\Users\Administrator\Desktop\C++\VS练习项目\基于STL的演讲比赛流程管理系统\SpeechManager.cpp(53,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\C++\VS练习项目\基于STL的演讲比赛流程管理系统\SpeechManager.cpp(349,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\numeric(33,26): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\numeric(33,26): warning C4244:         with
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\numeric(33,26): warning C4244:         [
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\numeric(33,26): warning C4244:             _Ty=float
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\numeric(33,26): warning C4244:         ]
+  (编译源文件“SpeechManager.cpp”)
+      D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\numeric(33,26):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\Users\Administrator\Desktop\C++\VS练习项目\基于STL的演讲比赛流程管理系统\SpeechManager.cpp(182,16):
+          查看对正在编译的函数 模板 实例化“_Ty std::accumulate<std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,float>(const _InIt,const _InIt,_Ty)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>
+          ]
+          D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\numeric(42,17):
+          查看对正在编译的函数 模板 实例化“_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,
+              _Fn=std::plus<void>
+          ]
+  
+基于STL的演讲比赛流程管理系统\Debug\SpeechManager.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  基于STL的演讲比赛流程管理系统.vcxproj -> C:\Users\Administrator\Desktop\C++\VS练习项目\基于STL的演讲比赛流程管理系统\Debug\基于STL的演讲比赛流程管理系统.exe

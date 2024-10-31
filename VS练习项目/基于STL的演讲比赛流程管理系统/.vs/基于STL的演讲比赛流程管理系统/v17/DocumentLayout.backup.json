@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C\u002B\u002B\\VS\u7EC3\u4E60\u9879\u76EE\\\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE5C386-56DA-401E-8FCA-02034A7DCBA8}|\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF.vcxproj|C:\\Users\\Administrator\\Desktop\\C\u002B\u002B\\VS\u7EC3\u4E60\u9879\u76EE\\\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF\\SpeechManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EE5C386-56DA-401E-8FCA-02034A7DCBA8}|\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:SpeechManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE5C386-56DA-401E-8FCA-02034A7DCBA8}|\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF.vcxproj|C:\\Users\\Administrator\\Desktop\\C\u002B\u002B\\VS\u7EC3\u4E60\u9879\u76EE\\\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF\\\u6F14\u8BB2\u6BD4\u8D5B\u7BA1\u7406\u7CFB\u7EDF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EE5C386-56DA-401E-8FCA-02034A7DCBA8}|\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u6F14\u8BB2\u6BD4\u8D5B\u7BA1\u7406\u7CFB\u7EDF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE5C386-56DA-401E-8FCA-02034A7DCBA8}|\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF.vcxproj|C:\\Users\\Administrator\\Desktop\\C\u002B\u002B\\VS\u7EC3\u4E60\u9879\u76EE\\\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF\\SpeechManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EE5C386-56DA-401E-8FCA-02034A7DCBA8}|\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:SpeechManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE5C386-56DA-401E-8FCA-02034A7DCBA8}|\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF.vcxproj|C:\\Users\\Administrator\\Desktop\\C\u002B\u002B\\VS\u7EC3\u4E60\u9879\u76EE\\\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF\\Speaker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EE5C386-56DA-401E-8FCA-02034A7DCBA8}|\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:Speaker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE5C386-56DA-401E-8FCA-02034A7DCBA8}|\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF.vcxproj|C:\\Users\\Administrator\\Desktop\\C\u002B\u002B\\VS\u7EC3\u4E60\u9879\u76EE\\\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF\\Speaker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EE5C386-56DA-401E-8FCA-02034A7DCBA8}|\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:Speaker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpeechManager.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C\u002B\u002B\\VS\u7EC3\u4E60\u9879\u76EE\\\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF\\SpeechManager.cpp",
+              "RelativeDocumentMoniker": "SpeechManager.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C\u002B\u002B\\VS\u7EC3\u4E60\u9879\u76EE\\\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF\\SpeechManager.cpp*",
+              "RelativeToolTip": "SpeechManager.cpp*",
+              "ViewState": "AgIAAGQBAAAAAAAAAAAmwHgBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T01:25:11.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u6F14\u8BB2\u6BD4\u8D5B\u7BA1\u7406\u7CFB\u7EDF.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C\u002B\u002B\\VS\u7EC3\u4E60\u9879\u76EE\\\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF\\\u6F14\u8BB2\u6BD4\u8D5B\u7BA1\u7406\u7CFB\u7EDF.cpp",
+              "RelativeDocumentMoniker": "\u6F14\u8BB2\u6BD4\u8D5B\u7BA1\u7406\u7CFB\u7EDF.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C\u002B\u002B\\VS\u7EC3\u4E60\u9879\u76EE\\\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF\\\u6F14\u8BB2\u6BD4\u8D5B\u7BA1\u7406\u7CFB\u7EDF.cpp",
+              "RelativeToolTip": "\u6F14\u8BB2\u6BD4\u8D5B\u7BA1\u7406\u7CFB\u7EDF.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T01:24:20.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpeechManager.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C\u002B\u002B\\VS\u7EC3\u4E60\u9879\u76EE\\\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF\\SpeechManager.h",
+              "RelativeDocumentMoniker": "SpeechManager.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C\u002B\u002B\\VS\u7EC3\u4E60\u9879\u76EE\\\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF\\SpeechManager.h",
+              "RelativeToolTip": "SpeechManager.h",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T01:24:47.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Speaker.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C\u002B\u002B\\VS\u7EC3\u4E60\u9879\u76EE\\\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF\\Speaker.h",
+              "RelativeDocumentMoniker": "Speaker.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C\u002B\u002B\\VS\u7EC3\u4E60\u9879\u76EE\\\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF\\Speaker.h",
+              "RelativeToolTip": "Speaker.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T01:43:22.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Speaker.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C\u002B\u002B\\VS\u7EC3\u4E60\u9879\u76EE\\\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF\\Speaker.cpp",
+              "RelativeDocumentMoniker": "Speaker.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C\u002B\u002B\\VS\u7EC3\u4E60\u9879\u76EE\\\u57FA\u4E8ESTL\u7684\u6F14\u8BB2\u6BD4\u8D5B\u6D41\u7A0B\u7BA1\u7406\u7CFB\u7EDF\\Speaker.cpp",
+              "RelativeToolTip": "Speaker.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T01:43:32.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
