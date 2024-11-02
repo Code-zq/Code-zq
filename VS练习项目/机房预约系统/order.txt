@@ -1,0 +1,2 @@
+data: inerval: stuId:1 stuName:1 roomId:3 status:1
+data: inerval: stuId:2 stuName:2 roomId:3 status:2
